@@ -41,4 +41,4 @@ Atuar como um especialista técnico em Engenharia de Prompts e Arquitetura de LL
 * [Print do Chat com Citações](./evidencias/print-chat-citacoes.png)
 
 ## Link do Notebook Compartilhado
-* **Acesse o Gemini Notebook:** [INSIRA AQUI O LINK PÚBLICO DO SEU NOTEBOOK]
+* **Acesse o Gemini Notebook:** [(https://notebook.google.com/notebook/61f1f690-83d3-4df5-ac9e-3306cfc20cf7)]
